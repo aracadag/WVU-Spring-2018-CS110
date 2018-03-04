@@ -12,6 +12,7 @@ public class dataMinerTester {
 		String keywordInput = null;
 		String keywordInput2 = null;
 		String yesNoInput = null;
+		//Test comment for git
 		
 		int numberOfKeywords=0;
 		
