@@ -1,0 +1,7 @@
+Run DataAnalysisTester to try out the program.
+
+There is a class called DataAnalyzerAuthor. Ignore this class. It is a work in progress.
+
+Go to my website at www.alan-racadag.net to read the brief blog post I wrote about this project.
+
+- Alan
